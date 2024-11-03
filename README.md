@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A passionate developer from Türkiye</h3>
 
 - 🌱 I’m currently learning **C / C++ / C# / Python / Unity**
 
