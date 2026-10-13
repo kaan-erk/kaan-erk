@@ -16,8 +16,6 @@
 - 🎓 Computer Engineering student & **42 Network** cadet, diving deep into system architectures.
 - 🕹️ Passionate about **game engine mechanics**, **computer graphics**, and bringing pixels to life.
 - 🛠️ Currently building games and pushing limits with **C, C++, C#**, and **Unity / Godot**.
-- 🏃‍♂️ When I'm not debugging, you can probably find me running 10Ks, playing tennis, or producing beats.
-
 ---
 
 ### 🛠️ Tech Stack & Tools
